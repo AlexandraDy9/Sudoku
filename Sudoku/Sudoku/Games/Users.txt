@@ -1,0 +1,8 @@
+Ana,Photo/pinguin.png,0,0
+Lucian,Photo/bunny.png,3,2
+Dana,Photo/bird.png,1,1
+Andreea,Photo/pony.png,2,2
+Bianca,Photo/panda.png,1,0
+Tudor,Photo/chihuahua.png,1,0
+Diana,Photo/cat.png,0,1
+Teo,Photo/bee.png,0,0
